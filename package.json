@@ -1,0 +1,29 @@
+{
+  "name": "unoattack",
+  "version": "1.0.0",
+  "description": "Proyecto de Redes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArtuKILL/UnoAttack.git"
+  },
+  "keywords": [
+    "RS232"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArtuKILL/UnoAttack/issues"
+  },
+  "homepage": "https://github.com/ArtuKILL/UnoAttack#readme",
+  "devDependencies": {
+    "electron": "^11.1.1"
+  },
+  "dependencies": {
+    "serialport": "^9.0.4"
+  }
+}
